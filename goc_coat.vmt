@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "binah_trenchcoat"
+	"$bumpmap"      "trenchcoat_n"
+}
