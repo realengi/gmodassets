@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "binah_shoulder_pads"
+	$nocull 1
+}
